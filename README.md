@@ -29,8 +29,9 @@ I embrace an analytical approach to problem-solving, breaking down complexity in
 
 # :calling: Connect with me
 
-[![Website](https://img.shields.io/badge/my%20website-7f1b23?style=for-the-badge&logoColor=white)](https://www.sebastiaogaleno.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiaogaleno)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sebastiaogaleno)
+[![Website](https://img.shields.io/badge/my%20website-7f1b23?style=for-the-badge&logo=stackblitz&logoColor=white)](https://www.sebastiaogaleno.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/speedbytes)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@speedbytes1)
 
