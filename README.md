@@ -1,6 +1,10 @@
 # :wave: Hi, I'm Sebastião Galeno!
 
-![Profile Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sebastiaogaleno}1212%2Fhit-counter)
+[![GitHub Followers](https://img.shields.io/github/followers/sebastiaogaleno.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sebastiaogaleno?tab=followers)
+![Profile Views Counter](https://komarev.com/ghpvc/?username=sebastiaogaleno)
+![GitHub latest commit](https://badgen.net/github/last-commit/sebastiaogaleno/sebastiaogaleno/?icon=github&color=red)
+![GitHub Commits Count](https://badgen.net/github/commits/sebastiaogaleno/sebastiaogaleno/?icon=github&color=green)
+![GitHub Stars Count](https://badgen.net/github/stars/sebastiaogaleno/sebastiaogaleno/?icon=github&color=yellow)
 
 I am a software engineer with experience in developing web applications for different companies around the world: Brazil, Australia and Canada. I have a background in Computer Science, holding a master's degree in the same field, as well as a specialization course in Computer Networks and Information Security.
 
@@ -15,15 +19,17 @@ I embrace an analytical approach to problem-solving, breaking down complexity in
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 # :calling: Connect with me
 
-[![Website](https://img.shields.io/badge/my%20website-7f1b23?style=for-the-badge&logoColor=white)](https://www.speedbytes.com.br/sebastiaogaleno)
+[![Website](https://img.shields.io/badge/my%20website-7f1b23?style=for-the-badge&logoColor=white)](https://www.sebastiaogaleno.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiaogaleno)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/speedbytes)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@speedbytes1)
